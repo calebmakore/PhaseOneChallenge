@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhaseOneChallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_alc">AboutALCActivity</string>
+    <string name="caleb_makore">Caleb Makore</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
